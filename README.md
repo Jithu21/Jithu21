@@ -22,6 +22,9 @@ I am actively looking to contribute in Data Analyst roles while continuing to de
 
 ## 💼 Work Experience  
 
+#### Emerald Communication System Pvt Ltd (2024–2025)  
+Senior Executive Associate managing daily operational activities, coordinating with cross-functional teams, and maintaining workflow documentation. Prepared and reviewed operational reports, tracked process performance, and monitored task accuracy. Identified process gaps through data-driven evaluation and implemented structured improvements to enhance workflow efficiency and maintain quality standards.
+
 #### Smartwork Coworks Pvt Ltd (2023)  
 Community Executive Associate responsible for coordinating workspace operations, managing client requests, and handling booking schedules. Maintained usage records, tracked occupancy patterns, and updated service logs, contributing to efficient scheduling and better client experience.
 
